@@ -477,8 +477,11 @@ a{
   }
   
   .savings-card:hover {
-    background-color: #ffe0ed;
+    background-color:#ce9f74;
     transform: translateY(-5px);
+  }
+  .Debit-savings{
+    background-color: #ddb3ce;
   }
   body {
     font-family: 'Segoe UI', sans-serif;
